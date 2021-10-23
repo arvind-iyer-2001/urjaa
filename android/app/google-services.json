@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "681806638012",
+    "project_id": "urjaa-3d3ca",
+    "storage_bucket": "urjaa-3d3ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681806638012:android:fb4bceaad76caae47a19b9",
+        "android_client_info": {
+          "package_name": "com.siddharthmg.urjaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681806638012-vmp8l3p71rbj4r75p67a14umgtsq1v7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siddharthmg.urjaa",
+            "certificate_hash": "789ab1c3ab9cc8907633c5a8e1e33b0e436a2a8b"
+          }
+        },
+        {
+          "client_id": "681806638012-9m3udg392mkh5i4kkkgn63qatvqlc6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhC-4M21m5XRG8-griee_VPkgc0hZ0V7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681806638012-9m3udg392mkh5i4kkkgn63qatvqlc6p8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681806638012-ff0epc8telhfc949qvske6drf784ospv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siddharthmg.urjaa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681806638012:android:ad009a75ad380a657a19b9",
+        "android_client_info": {
+          "package_name": "com.urjaa.urjaa_android_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681806638012-435e058tnj0j9m1vvjb0ljsjh2jnco6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urjaa.urjaa_android_app",
+            "certificate_hash": "1863b0a6e4d11b935cf97ad856e7a466c04c0229"
+          }
+        },
+        {
+          "client_id": "681806638012-9m3udg392mkh5i4kkkgn63qatvqlc6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhC-4M21m5XRG8-griee_VPkgc0hZ0V7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681806638012-9m3udg392mkh5i4kkkgn63qatvqlc6p8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681806638012-ff0epc8telhfc949qvske6drf784ospv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siddharthmg.urjaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
